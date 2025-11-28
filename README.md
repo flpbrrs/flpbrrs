@@ -1,7 +1,7 @@
 # 👋 Oi, eu sou o Felipe!
 
 - 💚 Sou apaixonado por solucionar problemas usando tecnologia.
-- 🌱 Atualmente estou atuando como analista de negócios, além disso estou me capacitando em desenvolvimento de sistemas. 
+- 🌱 Atuando como desenvolvedor full-stack C# (.NET), Typescript (React, Vue) e SQL. 
 
 >⚡ Projete um pouco, desenvolva um pouco, teste um pouco, repita.
 
