@@ -1,7 +1,9 @@
-# 👋 Oi, eu sou o Felipe!
+# 👋 Oi, eu sou o Felipe Barros
 
-- 💚 Sou apaixonado por solucionar problemas usando tecnologia.
-- 🌱 Atuando como desenvolvedor full-stack C# (.NET), Typescript (React, Vue) e SQL. 
+🎓 Engenheiro de Computação formado pela UFC (Universidade Federal do Ceará).
 
->⚡ Projete um pouco, desenvolva um pouco, teste um pouco, repita.
+📱 Hoje meu foco é **desenvolvimento mobile**, mas atuo com versatilidade em **backend, frontend e levantamento de requisitos**.
 
+🧠 Tenho interesse particular em **arquitetura de software, refatoração de código e Domain-Driven Design (DDD)** — gosto de pensar em como o sistema deve evoluir, não só em fazer funcionar.
+
+> ⚡ Projete um pouco, desenvolva um pouco, teste um pouco, repita.
